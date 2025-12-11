@@ -176,7 +176,7 @@ The analysis identifies the most important features for transient detection:
 - The analysis uses stratified splitting to maintain class balance
 
 ## Contributing
-This is a master's thesis project. For questions or collaboration inquiries, please contact the author.
+This is a master's thesis project. For questions or collaboration inquiries, please contact me (the author).
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
